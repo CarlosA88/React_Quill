@@ -4,15 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-!**Hi**!
---------
+**Hi!**
 
-1.  This is a test **msn**, _navigate_ to [google](https://www.google.com/)
-2.  This is a test **msn**, _navigate_ to [google](https://www.google.com/)
-3.  This is a test **msn**, _navigate_ to [google](https://www.google.com/)
-4.  This is a test **msn**, _navigate_ to [google](https://www.google.com/)
+1.  This is a test msn, _navigate_ to [google](https://www.google.com/)
+2.  This is a test msn, _navigate_ to [google](https://www.google.com/)
 
-**Cheers**!!
+**Cheers!**
 
 ### `npm start`
 
