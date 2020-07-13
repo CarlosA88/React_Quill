@@ -11,14 +11,14 @@ export default function MyComponent() {
 
   const markdown = turndownService.turndown(value);
 
-  console.log(value);
+  // console.log(value);
   console.log(markdown);
 
   return (
     <div>
       <ReactQuill theme="snow" value={value} onChange={setValue} />
       {value}
-      <div>{markdown}</div>
+      {/* <div>{markdown}</div> */}
     </div>
   );
 }
